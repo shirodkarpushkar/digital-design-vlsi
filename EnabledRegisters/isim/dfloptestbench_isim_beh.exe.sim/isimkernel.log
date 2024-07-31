@@ -1,0 +1,28 @@
+Command line:
+   dfloptestbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  2
+     -socket  55438
+
+Sat Jul 27 16:25:14 2024
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 198.582 Meg
+
+ Total Signals          : 18
+ Total Nets             : 24
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 115
+
+ Total Simulation Time: 0.12 sec
+
+ Current Memory Usage: 276.181 Meg
+
+Sun Jul 28 12:34:34 2024
+

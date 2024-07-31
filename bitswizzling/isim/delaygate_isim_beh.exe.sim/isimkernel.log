@@ -1,0 +1,28 @@
+Command line:
+   delaygate_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  41193
+
+Thu Jul 25 20:43:17 2024
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 198.578 Meg
+
+ Total Signals          : 23
+ Total Nets             : 23
+ Total Signal Drivers   : 12
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 103
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 276.177 Meg
+
+Thu Jul 25 20:43:29 2024
+

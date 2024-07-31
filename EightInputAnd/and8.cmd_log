@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/EightInputAnd/and8.xst" -ofn "/home/ise/EightInputAnd/and8.syr" 

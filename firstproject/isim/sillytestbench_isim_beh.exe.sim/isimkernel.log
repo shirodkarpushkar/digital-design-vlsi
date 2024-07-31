@@ -1,0 +1,10 @@
+Command line:
+   sillytestbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  34003
+
+Sat Jul 13 13:10:37 2024
+
+
+ Elaboration Time: 0.04 sec

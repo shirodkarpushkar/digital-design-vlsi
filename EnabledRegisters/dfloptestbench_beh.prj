@@ -1,0 +1,3 @@
+verilog work "flopenr.v"
+verilog work "dfloptestbench.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

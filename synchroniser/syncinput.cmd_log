@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/synchroniser/syncinput.xst" -ofn "/home/ise/synchroniser/syncinput.syr" 
+xst -intstyle ise -ifn "/home/ise/synchroniser/syncinput.xst" -ofn "/home/ise/synchroniser/syncinput.syr" 

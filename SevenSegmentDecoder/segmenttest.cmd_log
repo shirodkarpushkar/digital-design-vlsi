@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/SevenSegmentDecoder/segmenttest.xst" -ofn "/home/ise/SevenSegmentDecoder/segmenttest.syr" 

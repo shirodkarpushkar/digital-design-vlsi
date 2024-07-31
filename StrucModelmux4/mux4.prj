@@ -1,0 +1,3 @@
+verilog work "tristate.v"
+verilog work "mux2.v"
+verilog work "mux4.v"

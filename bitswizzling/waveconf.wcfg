@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/bitswizzling/soptestbench_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="soptestbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/soptestbench/y" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/a" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/b" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/c" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/n3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">n3</obj_property>
+      <obj_property name="ObjectShortName">n3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/n2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">n2</obj_property>
+      <obj_property name="ObjectShortName">n2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/n1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">n1</obj_property>
+      <obj_property name="ObjectShortName">n1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/cb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cb</obj_property>
+      <obj_property name="ObjectShortName">cb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/bb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">bb</obj_property>
+      <obj_property name="ObjectShortName">bb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/soptestbench/dut/ab" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ab</obj_property>
+      <obj_property name="ObjectShortName">ab</obj_property>
+   </wvobject>
+</wave_config>

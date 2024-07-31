@@ -1,0 +1,2 @@
+vhdtdtfi -lib work /home/ise/firstproject/gates.v -lang verilog -prj firstproject -o gates.spl -module gates -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 gates.spl /home/ise/firstproject/gates.sym 

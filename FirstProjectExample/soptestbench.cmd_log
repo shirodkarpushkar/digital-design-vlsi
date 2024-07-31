@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/FirstProjectExample/soptestbench.xst" -ofn "/home/ise/FirstProjectExample/soptestbench.syr" 

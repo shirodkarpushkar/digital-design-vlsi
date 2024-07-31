@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/patternRecogniserFSM/patternMoore.xst" -ofn "/home/ise/patternRecogniserFSM/patternMoore.syr" 

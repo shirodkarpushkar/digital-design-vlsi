@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/firstproject/sillyfuncation.xst" -ofn "/home/ise/firstproject/sillyfuncation.syr" 

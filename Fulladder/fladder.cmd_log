@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Fulladder/fladder.xst" -ofn "/home/ise/Fulladder/fladder.syr" 
+xst -intstyle ise -ifn "/home/ise/Fulladder/fladder.xst" -ofn "/home/ise/Fulladder/fladder.syr" 
